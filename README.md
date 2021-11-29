@@ -1,7 +1,7 @@
 ## Hi, I'm Shane 👋
 I'm a software developer based in Ireland with a background in Full Stack Web Development.
 
-&nbsp; <a href="mailto:shaneoh10@outlook.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"></a>
+<a href="mailto:shaneoh10@outlook.com?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"></a>
 <a href="https://www.linkedin.com/in/s-o-hanlon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 
 ### Technologies and Tools
@@ -15,6 +15,13 @@ I'm a software developer based in Ireland with a background in Full Stack Web De
 <img src="https://camo.githubusercontent.com/0cc6318785fdcacd7a6eabcc3cc7b2f7f63b0e014b14d9c5528dacab16c4c221/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532333330324632462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d463035303332" alt="Git badge"> &nbsp; 
 <img src="https://camo.githubusercontent.com/cbbb6c316257353aad67f1d422a5778ff4a8ebc12bf1a72d26c112615bf0090c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622532302d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646" alt="GitHub badge"> &nbsp; 
 <img src="https://camo.githubusercontent.com/46ed060ff2e4dc379a225049d5fa9e97b5351919892b7c87800325f259cb4b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752532302d2532333433303039382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4865726f6b75266c6f676f436f6c6f723d464646464646" alt="Heroku badge"> &nbsp;
+<img src="https://camo.githubusercontent.com/d66e28175bf0519dc818143d1fb03129e2f1e1aba876f14e839696069b15558e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532532302d2532333233324633452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d416d617a6f6e253230415753266c6f676f436f6c6f723d464639393030" alt="AWS badge"> &nbsp;
+<img src="https://camo.githubusercontent.com/4c681a695dad7da1591b7094bbdf0b969b4a971a50a575c33047d27f6d862aa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652532302d2532333634364544452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d537472697065266c6f676f436f6c6f723d464646464646" alt="Stripe badge"> &nbsp;
+  
+### Currently learning...
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-jsjs&logoColor=white" alt="Node.js badge"> &nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"> &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge"> &nbsp;
 
 
 
