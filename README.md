@@ -27,7 +27,7 @@ I'm a software developer based in Ireland with a background in Full Stack Web De
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shaneoh10&count_private=true&theme=tokyonight&showicons=true)]()<br/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneoh10&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneoh10&langs_count=3&theme=tokyonight)]()
 
 
 
