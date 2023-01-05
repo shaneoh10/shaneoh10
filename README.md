@@ -1,5 +1,5 @@
 ## Hi, I'm Shane 👋
-I'm a software developer based in Ireland with a background in Full Stack Web Development.
+I'm a software developer based in Ireland with a background in Full Stack Development (Python/Django).
 
 <a href="https://www.linkedin.com/in/s-o-hanlon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 
