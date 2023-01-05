@@ -23,9 +23,7 @@ I'm a software developer based in Ireland with a background in Full Stack Develo
 <img src="https://camo.githubusercontent.com/4c681a695dad7da1591b7094bbdf0b969b4a971a50a575c33047d27f6d862aa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652532302d2532333634364544452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d537472697065266c6f676f436f6c6f723d464646464646" alt="Stripe badge"> &nbsp;
   
 ### Currently learning...
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-jsjs&logoColor=white" alt="Node.js badge"> &nbsp;
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"> &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge"> &nbsp;
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="npm badge"> &nbsp;
 
 
 
