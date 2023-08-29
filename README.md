@@ -25,9 +25,9 @@ I'm a software developer based in Ireland with a background in Full Stack Develo
 
   
  
-![shaneoh10's Stats](https://github-readme-stats.vercel.app/api?username=shaneoh10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![shaneoh10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaneoh10&theme=vue-dark&hide_border=true)
-![shaneoh10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneoh10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![shaneoh10's Stats](https://github-readme-stats.vercel.app/api?username=shaneoh10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![shaneoh10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaneoh10&theme=vue-dark&hide_border=true)  
+![shaneoh10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneoh10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 
 
 
